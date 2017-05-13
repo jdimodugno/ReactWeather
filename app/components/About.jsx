@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return (
     <div>
-      <h1 className='text-center'> About </h1>
+      <h1 className='text-center page-title'> About </h1>
       <p> This is a weather application build on React. It is an approach to a real web development app. A proof of concept, the things you can do using React and a third party api.</p>
       <p> I was able to build it following "The Complete React Web App Developmer Course" made by Andrew Mead.</p>
       <p> To access the github repo I used this
